@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.env
+.env.*
+
+# 本项目 AGENTS.md 是核心交付物，覆盖全局忽略规则
+!AGENTS.md
