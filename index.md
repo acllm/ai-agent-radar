@@ -9,6 +9,7 @@
 | 2026-09-13 | Finch Agent | coding-agents | [Finch Agent 深度分析](reports/products/coding-agents/finch/overview.md) | draft |
 | 2026-09-13 | Paseo | multi-agent | [Paseo 深度分析](reports/products/multi-agent/paseo/overview.md) | draft |
 | 2026-09-13 | ZCode | coding-agents | [ZCode 深度分析](reports/products/coding-agents/zcode/overview.md) | draft |
+| 2026-09-13 | botmux | multi-agent | [botmux 深度分析](reports/products/multi-agent/botmux/overview.md) | in-review |
 
 ## 横向对比
 
